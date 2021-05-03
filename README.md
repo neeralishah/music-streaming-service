@@ -22,15 +22,25 @@ For the CS 348 Semester Project.
 Key: table_name(PK, FK, attribute_1, attritube_2,... etc)
 
 Artist( id, name, genre)
+
 User(username, first, last, date_joined, account_type)
+
 Account(account_type, description)
+
 Song(id, title, length, genre)
+
 Album(id, title, num_songs, total_time, genre)
+
 album_song_rel(album_id, song_id)
+
 album_artist_rel(album_id, artist_id)
+
 Playlist(id, name, date_created)
+
 playlist_song_rel(song_id, playlist_id)
+
 playlist_user_rel(username, playlist_id)
+
 listened_to(username,song_id)
 
 **ORM & Data Entry**

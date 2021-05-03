@@ -12,6 +12,7 @@ Search for what songs another user has listened to
 Search for songs by a specfic artist
 Update user account type from Standard to Premium and vice versa
 See website stats like number of user, artists, and the top song on the website!
+
 SQL Related Features
 
 Relational database using sqlite3 - 10+ tables

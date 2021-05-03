@@ -3,7 +3,7 @@
 A website that is backed by a sqlite database and hosted on glitch.  
 Visit the website here: https://cs-348-project.glitch.me/
 
-For the CS 348 Project.
+For the CS 348 Semester Long Project.
 
 **Working Features**
 * Adding Users to the service
